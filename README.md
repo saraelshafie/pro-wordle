@@ -157,7 +157,8 @@ This predicate starts by calling the predicate build_kb, then calling the predic
     <h3>
       Winning Case
     </h3>
-    [Screenshot 2024-03-30 004011](https://github.com/saraelshafie/pro-wordle/assets/125765111/d55e65e7-661b-4cf7-815d-59286908e197)
-
   </summary>
+  <img width="1000" alt="login" src="./Screenshot 2024-03-30 004011">
+  <img width="1000" alt="login" src="./Screenshot 2024-03-30 004022">
+
 </details>
