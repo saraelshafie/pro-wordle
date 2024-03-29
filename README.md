@@ -158,7 +158,7 @@ This predicate starts by calling the predicate build_kb, then calling the predic
       Winning Case
     </h3>
   </summary>
-  <img width="1000" alt="login" src="./Screenshot 2024-03-30 004011">
-  <img width="1000" alt="login" src="./Screenshot 2024-03-30 004022">
+  <img width="1000" alt="winning" src="Screenshot 2024-03-30 004011.png">
+  <img width="1000" alt="winning" src="Screenshot 2024-03-30 004022.png">
 
 </details>
